@@ -1,3 +1,14 @@
+///
+/// Group Members:
+/// Andrew McCrary
+/// Ricky Roberts
+/// Vitta Silberberg
+///
+/// Instructions:
+/// Build the vs project, and run
+/// 
+/// All contributions are equal.
+
 #include <iostream>
 #include <string>
 #include <fstream>
